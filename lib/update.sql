@@ -1,1 +1,2 @@
-UPDATE TABLE characters
+UPDATE characters 
+SET series =
